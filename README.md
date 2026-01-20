@@ -34,8 +34,13 @@ Through academic and personal projects, I am developing a solid foundation in da
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 
-### Database  & SQL
-I work with relational databases to store, query, and analyze structured data.  
-I use SQL to write queries for data extraction, filtering, aggregation, and basic joins.  
-Through projects and coursework, I am learning how to design simple database schemas and understand data relationships while ensuring data consistency.
+### Database  & SQL 
+I work with both relational and non-relational databases to store and analyze data.  
+I use SQL to write queries for data extraction, filtering, joins, and aggregations, and I have a basic understanding of NoSQL databases such as MongoDB.  
+Through projects and coursework, I am learning how to design simple database structures and work with different data models.
 
+#### Tools & Technologies:
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
