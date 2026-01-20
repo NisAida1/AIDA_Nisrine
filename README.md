@@ -56,3 +56,12 @@ Through academic and personal projects, I have worked with different datasets to
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
+
+### Collaboration & Project Management Tools
+
+I use collaboration and project management tools to organize tasks, follow project progress, and work efficiently within a team.  
+Through academic projects, I have used Jira to manage tasks, track issues, and collaborate with teammates while respecting deadlines.
+
+#### Tools
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+
