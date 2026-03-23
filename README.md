@@ -8,16 +8,25 @@ Portfolio of data analytics projects by Nisrine Aida – Python, SQL, Power BI
 ---
 ## About Me 👋
 
-Hi everyone, Nisrine Aida here 👋
+Hi, I’m Nisrine Aida. 👋
 
-I’m a passionate Data Analyst and a 2nd-year Engineering student at EILCO Calais, specializing in data science. I love working with data, solving problems, and turning information into insights.
+As an Engineering Student at EILCO Calais specializing in Data Science, I bridge the gap between complex raw data and actionable business decisions. My approach combines technical mastery with a strategic vision to solve real-world problems.
 
-Although I’m just starting my professional journey in data analytics, I’ve completed several projects and earned certifications that strengthened my skills in Python, SQL, Power BI ... .
+Why work with me?
+I don’t just "crunch numbers"; I build tools and insights that drive growth. My background in Business Analysis (BA) and Project Management allows me to manage the full data lifecycle—from SQL querying to high-level BI storytelling.
 
-I’m currently looking for an end-of-year internship and a work-study contract for my 3rd year, where I can apply my knowledge, grow as a Data Analyst, and contribute to real-world projects.
+🛠 Technical Stack:
 
-I’m always excited to connect with professionals or other aspiring data analysts to share ideas and experiences!
-Feel free to DM me if you’d like to connect or discuss opportunities.
+Languages: Python (Pandas, Numpy, Scikit-learn), SQL.
+
+Data Visualization: Power BI, Tableau, Excel (Advanced).
+
+Domains: Business Intelligence, Predictive Analytics, Project Coordination.
+
+🎯 Current Focus:
+I am currently seeking an End-of-year Internship and a Work-study contract (Apprenticeship) for 2026. I am ready to bring my energy and analytical skills to a forward-thinking team.
+
+📩 Let’s connect! Feel free to reach out via DM or at [Ton Email] to discuss how I can contribute to your next data project.
 
 ##  Thechnical SKills
 
