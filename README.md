@@ -26,7 +26,7 @@ Domains: Business Intelligence, Predictive Analytics, Project Coordination.
 🎯 Current Focus:
 I am currently seeking an End-of-year Internship and a Work-study contract (Apprenticeship) for 2026. I am ready to bring my energy and analytical skills to a forward-thinking team.
 
-📩 Let’s connect! Feel free to reach out via DM or at [Ton Email] to discuss how I can contribute to your next data project.
+📩 Let’s connect! Feel free to reach out via DM or at my Email to discuss how I can contribute to your next data project.
 
 ##  Thechnical SKills
 
